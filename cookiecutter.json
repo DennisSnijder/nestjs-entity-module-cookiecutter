@@ -1,0 +1,4 @@
+{
+  "entity_name": "User",
+  "entity_slug": "{{ cookiecutter.entity_name | lower | replace(' ', '-') }}"
+}
